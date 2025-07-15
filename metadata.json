@@ -1,0 +1,6 @@
+{
+  "name": "Squads Player Stats",
+  "description": "A web application that displays player statistics for a fantasy sports game, allowing users to browse players and predict outcomes.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
